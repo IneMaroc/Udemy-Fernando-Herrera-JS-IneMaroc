@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IneMaroc/webpack-inicial.git"
+    "url": "git+https://github.com/IneMaroc/Udemy-Fernando-Herrera-JS-IneMaroc.git"
   },
   "author": "Ine Maroc",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/IneMaroc/webpack-inicial/issues"
+    "url": "https://github.com/IneMaroc/Udemy-Fernando-Herrera-JS-IneMaroc/settings"
   },
-  "homepage": "https://github.com/IneMaroc/webpack-inicial#readme",
+  "homepage": "https://github.com/IneMaroc/Udemy-Fernando-Herrera-JS-IneMaroc#readme",
   "devDependencies": {
     "@babel/core": "^7.16.0",
     "@babel/preset-env": "^7.16.0",

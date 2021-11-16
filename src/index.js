@@ -1,7 +1,9 @@
 
-import { saludar } from './components/Saludo';
 import './styles.scss';
+import { Todo, TodoList } from './classes';
+import { crearTodoHtml } from './components/components';
 
-const nombre = 'Ine'
 
-saludar( nombre );
+
+export const todoList = new TodoList();
+
