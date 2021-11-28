@@ -65,7 +65,7 @@ divTodoList.addEventListener('click', (e) => {
    console.log(todoList);
 });
 
-btnBorrar.removeEventListener('click', () => {
+btnBorrar.addEventListener('click', () => {
    todoList.eliminarCompletados();
 
    for (let i = divTodoList.children.length-1; i>= 0 ; i--) {

@@ -7,3 +7,4 @@ import { crearTodoHtml } from './components/components';
 
 export const todoList = new TodoList();
 
+todoList.todos.forEach( crearTodoHtml );
