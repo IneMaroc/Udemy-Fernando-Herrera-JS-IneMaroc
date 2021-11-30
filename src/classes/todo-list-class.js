@@ -21,8 +21,6 @@ export class TodoList {
 
       for(const todo of this.todos) {
 
-         console.log(id, todo.id);
-
          if (todo.id == id) {
             todo.completado = !todo.completado;
             this.guardarLocalStorage();
